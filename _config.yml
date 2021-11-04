@@ -14,8 +14,8 @@ discus-identifier:  XXX
 # Author settings
 author:
   name: srflmr-draft
-  bio: Sebuah blog biasa <br>
-      /#uncencored-version of <a href="https://blog.srflmr.my.id"> srflmr blog </a> <br> 
+  bio: <a href="https://blog.srflmr.my.id"> srflmr blog </a> <br>
+      /#uncencored-version of <br> 
       <a href="https://srflmr.my.id"> /#srflmr-project </a>
   picture: assets/images/profile.png 
   #github: onepase # github username
@@ -28,7 +28,7 @@ author:
 
 
 # URL settings
-url: "https://draft-srflmr.netlify.app" # Domain Name of host. [username].github.io for github pages
+url: "https://draft.srflmr.my.id" # Domain Name of host. [username].github.io for github pages
 baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
